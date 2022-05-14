@@ -41,7 +41,7 @@ set_global_assignment -name DEVICE 5CEFA7F31I7
 set_global_assignment -name TOP_LEVEL_ENTITY c5e_dev_golden_top
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION 12.0
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "09:50:21  MARCH 19, 2012"
-set_global_assignment -name LAST_QUARTUS_VERSION "12.1 SP1"
+set_global_assignment -name LAST_QUARTUS_VERSION "18.1.1 Lite Edition"
 set_global_assignment -name DEVICE_FILTER_PACKAGE FBGA
 set_global_assignment -name DEVICE_FILTER_PIN_COUNT 896
 set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 256
